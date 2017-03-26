@@ -39,8 +39,8 @@
   }
 </style>
 
-<div style="background-color:#23345C; padding: 15px; margin: 0 0 100 0">
-  <h1 class="red-text">Rere's Page</h1>
+<div style="background-color:#23345C; margin: 0 0 100 0">
+<font size="8px"><h1 class="red-text">Rere's Page</h1></font>
 </div>
 
 <div class="center">
@@ -48,15 +48,16 @@
 </div>
 
 <div>
-  <font size="8px"><p><b>Name : </b></p></font>
+  <font size="5px"><p><b>Name : </b></p></font>
   <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
-  <font size="8px"><p><b>Major : </b></p></font>
+  <font size="5px"><p><b>Major : </b></p></font>
   <h4 class="center" size="8px"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
-  <font size="8px"><p><b>Student ID : </b></p></font>
+  <font size="5px"><p><b>Student ID : </b></p></font>
   <h4 class="center" size="8px"><font face="微軟正黑體">403262083</font></h4>
-  <font size="8px"><p><b>Where you can find me : </b></p></font>
-  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img center" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
-  <a href="https://www.instagram.com/rere85214/"><img class="small-img center" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a>
+  <font size="5px"><p><b>Where you can find me : </b></p></font>
+  <div class="center">
+  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
+  <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
 
 </div>
 </body>
