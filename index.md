@@ -4,9 +4,7 @@
 <style>
   h1 {
     font-family: Lobster, Monospace;
-  }
-  .red-text {
-    color: #C1403D;
+    color: #D75B66;
   }
   .img-border {
     border-color: #C1403D;
@@ -32,7 +30,7 @@
   }
 
   .smaller-image {
-    width: 100px;
+    width: 500px;
   }
   .silver-background {
     background-color: silver;
@@ -42,8 +40,9 @@
   }
 </style>
 
-<div bgcolor="#B5C1B4">
+<div style="background-color:#23345C; padding: 5px">
   <h1 class="red-text">Rere's Page</h1>
 </div>
 
-<img class="center img-border" alt="A cute orange cat lying on its back. " src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
+<img class="smaller-image center img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
+
