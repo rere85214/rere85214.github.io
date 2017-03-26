@@ -12,7 +12,11 @@
     border-width: medium;
     border-radius: 50%;
   }
-  
+  .absolute {
+    position: absolute;
+    right: 0;
+    left: 0;
+  }
   .center {
     text-align: center;
   }
@@ -40,7 +44,7 @@
   }
 </style>
 <div style="background-color: #23345C">
-<h1 class="red-text">Rere's Page??</h1>
+<h1 class="red-text absolute">Rere's Page??</h1>
 </div>
 
 <div class="center">
