@@ -39,7 +39,7 @@
     background-color: silver;
   }
 </style>
-<div style="background-color: #23345C; padding-right: 100%;">
+<div style="background-color: #23345C">
 <h1 class="red-text">Rere's Page??</h1>
 </div>
 
