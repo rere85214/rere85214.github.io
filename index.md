@@ -39,7 +39,7 @@
   }
 </style>
 
-<div style="background-color:#23345C; margin: 0 0 100 0">
+<div style="background-color:#23345C; padding: 15px; margin: 0 0 100 0">
   <h1 class="red-text">Rere's Page</h1>
 </div>
 
@@ -48,14 +48,16 @@
 </div>
 
 <div>
-  <font size="10px"><p><b>Name : </b></p></font>
-  <h4 class="center"><font face="微軟正黑體"; size="10px">錢姵文</font></h4>
-  <font size="10px"><p><b>Major : </b></p></font>
-  <h4 class="center"><font face="微軟正黑體"; size="10px">Computer Science and Information Engineering</font></h4>
-  <font size="10px"><p><b>Student ID : </b></p></font>
-  <h4 class="center"><font face="微軟正黑體"; size="10px">403262083</font></h4>
+  <blockquote><blockquote><p><b>Name : </b></p></blockquote></blockquote>
+  <h4 class="center"><font face="微軟正黑體">錢姵文</font></h4>
+  <blockquote><blockquote><p><b>Major : </b></p></blockquote></blockquote>
+  <h4 class="center"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
+  <blockquote><blockquote><p><b>Student ID : </b></p></blockquote></blockquote>
+  <h4 class="center"><font face="微軟正黑體">403262083</font></h4>
   <p><b>Where you can find me : </b></p>
-  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img center" alt="facebook link" scr="https://img.clipartfest.com/5f501c692bb9c6782efc7af0f4bcf349_facebook-icon-circle-vector-facebook-logo_512-512.png"></a>
+  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img center" alt="facebook link" src="https://blog.addthiscdn.com/wp-content/uploads/2015/11/facebook_2.png" border="0"></a>
+  <a href=""><img class="small-img center" alt="instagram link" src="" border="0"></a>
+
 </div>
 </body>
 </html>
