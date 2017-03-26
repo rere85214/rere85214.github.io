@@ -57,10 +57,10 @@
   <p class="relative2"><b>Name : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
   <p class="relative2"><b>Major : </b></p>
-  <h4 class="center" size="8px"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
+  <h4 class="center" size="8px"><font face="微軟正黑體">CSIE</font></h4>
   <p class="relative2"><b>Student ID : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">403262083</font></h4>
-  <p class="relative2"><b>Where you can find me : </b></p>
+  <p class="relative2"><b>Find ME : </b></p>
   <div class="center">
   <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
   <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
