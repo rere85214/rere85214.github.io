@@ -47,7 +47,7 @@
 </style>
 <div style="background-color: #23345C" class="absolute">
 <h1>Rere's Page</h1>
-<marquee bgcolor="#F1BA48" behavior="altemate">Check out my information down below</marquee>
+<marquee bgcolor="#F1BA48" behavior="altemate" style="font-family: Lobster, Monospace; font-size: 10px; color: #000D29">Check out my information down below</marquee>
 </div>
 
 <div class="center relative">
