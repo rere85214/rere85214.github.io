@@ -23,7 +23,7 @@
   }
   .relative2 {
     position: relative;
-    left: 100px;
+    left: 250px;
   }
   .center {
     text-align: center;
