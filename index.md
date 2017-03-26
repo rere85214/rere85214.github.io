@@ -17,8 +17,9 @@
     right: 0;
     left: 0;
   }
-  .static {
-    position: satitc;
+  .relative {
+    position: relative;
+    top: 100px;
   }
   .center {
     text-align: center;
@@ -44,11 +45,11 @@
 <h1>Rere's Page</h1>
 </div>
 
-<div class="center static">
+<div class="center relative">
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<div>
+<div class="relative">
   <p><b>Name : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
   <p><b>Major : </b></p>
