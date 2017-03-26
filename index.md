@@ -9,7 +9,6 @@
   .img-border {
     border-color: #C1403D;
     border-width: medium;
-    border-style: dashed;
     border-radius: 50%;
   }
   
@@ -18,8 +17,8 @@
   }
   
   p {
-    font-size: 16px;
-    font-family: Monospace;
+    font-size: 20px;
+    font-family: Fantasy;
   }
 
   .thick-green-border {
@@ -35,15 +34,29 @@
   .silver-background {
     background-color: silver;
   }
-  .red-background {
-    background-color: #C0334D
-  }
 </style>
 
-<div style="background-color:#23345C; padding: 5px">
+<div style="background-color:#23345C; padding: 15px">
   <h1 class="red-text">Rere's Page</h1>
 </div>
 
 <div class="center">
   <img class="smaller-image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
+</div>
+
+<div class="silver-background">
+  <p>Name : 
+    <font face="微軟正黑體">錢姵文</font>
+  </p>
+  <ul>
+    <li>cat nip</li>
+    <li>laser pointers</li>
+    <li>lasagna</li>
+  </ul>
+  <p>Top 3 things cats hate:</p>
+  <ol>
+    <li>flea treatment</li>
+    <li>thunder</li>
+    <li>other cats</li>
+  </ol>
 </div>
