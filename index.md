@@ -44,7 +44,7 @@
     <td colspan="5"><h1 class="red-text">Rere's Page</h1></td>
   </tr>
 </table>
-<div style="background-color:#23345C; margin: 0 0 100 0">
+<div style="background-color:#23345C; margin:100%">
 <h1 class="red-text">Rere's Page</h1>
 </div>
 
