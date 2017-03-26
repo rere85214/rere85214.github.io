@@ -48,15 +48,15 @@
 </div>
 
 <div>
-  <blockquote><blockquote><p><b>Name : </b></p></blockquote></blockquote>
-  <h4 class="center"><font face="微軟正黑體">錢姵文</font></h4>
-  <blockquote><blockquote><p><b>Major : </b></p></blockquote></blockquote>
-  <h4 class="center"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
-  <blockquote><blockquote><p><b>Student ID : </b></p></blockquote></blockquote>
-  <h4 class="center"><font face="微軟正黑體">403262083</font></h4>
-  <p><b>Where you can find me : </b></p>
-  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img center" alt="facebook link" src="https://blog.addthiscdn.com/wp-content/uploads/2015/11/facebook_2.png" border="0"></a>
-  <a href=""><img class="small-img center" alt="instagram link" src="" border="0"></a>
+  <font size="8px"><p><b>Name : </b></p></font>
+  <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
+  <font size="8px"><p><b>Major : </b></p></font>
+  <h4 class="center" size="8px"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
+  <font size="8px"><p><b>Student ID : </b></p></font>
+  <h4 class="center" size="8px"><font face="微軟正黑體">403262083</font></h4>
+  <font size="8px"><p><b>Where you can find me : </b></p></font>
+  <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img center" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
+  <a href="https://www.instagram.com/rere85214/"><img class="small-img center" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a>
 
 </div>
 </body>
