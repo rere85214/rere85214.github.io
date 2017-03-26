@@ -40,7 +40,7 @@
   }
 </style>
 <div style="background-color: #23345C; margin-right: 100%; margin-left: 100%">
-<h1 class="red-text">Rere's Page</h1>
+<h1 class="red-text">Rere's Page到底????</h1>
 </div>
 
 <div class="center">
