@@ -39,11 +39,6 @@
     background-color: silver;
   }
 </style>
-<table cellpadding="0" cellspacing="1" width="100%" border="0">
-  <tr>
-    <td colspan="5"><h1 class="red-text">Rere's Page</h1></td>
-  </tr>
-</table>
 <div style="background-color:#23345C; margin:100%">
 <h1 class="red-text">Rere's Page</h1>
 </div>
