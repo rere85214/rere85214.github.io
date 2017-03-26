@@ -45,7 +45,7 @@
     width: 100px;
   }
 </style>
-<div style="background-color: #23345C" class="absolute">
+<div style="background-color: #23345C; background-size: cover" class="absolute">
 <h1>Rere's Page</h1>
 <marquee bgcolor="#F1BA48" behavior="altemate" style="font-family: Lobster, Monospace; font-size: 30px; color: #328DAA">Check out my information down below</marquee>
 </div>
