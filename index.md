@@ -17,48 +17,45 @@
     right: 0;
     left: 0;
   }
+  .static {
+    position: satitc;
+  }
   .center {
     text-align: center;
   }
-  
-  pc {
+  p {
     font-size: 20px;
     font-family: Monospace;
   }
-
-  .thick-green-border {
+  .border {
     border-color: #C1403D;
     border-width: 10px;
     border-style: solid;
     border-radius: 50%;
   }
-
   .image {
     width: 500px;
   }
   .small-img {
     width: 100px;
   }
-  .silver-background {
-    background-color: silver;
-  }
 </style>
 <div style="background-color: #23345C" class="absolute">
 <h1>Rere's Page</h1>
 </div>
 
-<div class="center">
+<div class="center static">
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
 <div>
-  <font size="5px"><p><b>Name : </b></p></font>
+  <p><b>Name : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
-  <font size="5px"><p><b>Major : </b></p></font>
+  <p><b>Major : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">Computer Science and Information Engineering</font></h4>
-  <font size="5px"><p><b>Student ID : </b></p></font>
+  <p><b>Student ID : </b></p>
   <h4 class="center" size="8px"><font face="微軟正黑體">403262083</font></h4>
-  <font size="5px"><p><b>Where you can find me : </b></p></font>
+  <p><b>Where you can find me : </b></p>
   <div class="center">
   <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
   <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
