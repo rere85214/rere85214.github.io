@@ -21,6 +21,10 @@
     position: relative;
     top: 100px;
   }
+  .relative2 {
+    position: relative;
+    left: 100px;
+  }
   .center {
     text-align: center;
   }
