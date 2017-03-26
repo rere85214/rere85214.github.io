@@ -15,6 +15,10 @@
     border-radius: 50%;
   }
   
+  .center {
+    text-align: center;
+  }
+  
   p {
     font-size: 16px;
     font-family: Monospace;
@@ -42,4 +46,4 @@
   <h1 class="red-text">Rere's Page</h1>
 </div>
 
-<p align=center><img class="smaller-image img-border" alt="A cute orange cat lying on its back. " src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14"></p>
+<img class="center img-border" alt="A cute orange cat lying on its back. " src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
