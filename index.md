@@ -8,11 +8,38 @@
   .red-text {
     color: #C1403D;
   }
-  .img-border{
-    
+  .img-border {
+    border-color: #C1403D;
+    border-width: medium;
+    border-style: dashed;
+    border-radius: 50%;
+  }
+  
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: #C1403D;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+  .silver-background {
+    background-color: silver;
+  }
+  .red-background {
+    background-color: #C0334D
   }
 </style>
 
 <div bgcolor="#B5C1B4">
   <h1 class="red-text">Rere's Page</h1>
 </div>
+
+<p align=center><img class="smaller-image img-border" alt="A cute orange cat lying on its back. " src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14"></p>
