@@ -43,8 +43,8 @@
     background-color: silver;
   }
 </style>
-<div style="background-color: #23345C">
-<h1 class="red-text absolute">Rere's Page??</h1>
+<div style="background-color: #23345C" class="absolute">
+<h1>Rere's Page</h1>
 </div>
 
 <div class="center">
