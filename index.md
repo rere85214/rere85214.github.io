@@ -18,7 +18,7 @@
   
   p {
     font-size: 20px;
-    font-family: Fantasy;
+    font-family: Monospace;
   }
 
   .thick-green-border {
@@ -36,7 +36,7 @@
   }
 </style>
 
-<div style="background-color:#23345C; padding: 15px">
+<div style="background-color:#23345C; padding: 15px; margin: 0 0 50 0">
   <h1 class="red-text">Rere's Page</h1>
 </div>
 
@@ -44,10 +44,11 @@
   <img class="smaller-image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<div class="silver-background">
-  <p>Name : 
-    <font face="微軟正黑體">錢姵文</font>
-  </p>
+<div>
+  <p><b>Name : </b></p>
+    <h4 class="center"><font face="微軟正黑體">錢姵文</font></h4>
+  <p><b>Major : </b></p>
+    <h4 class="center"><font face=""
   <ul>
     <li>cat nip</li>
     <li>laser pointers</li>
@@ -60,3 +61,5 @@
     <li>other cats</li>
   </ol>
 </div>
+</body>
+</html>
