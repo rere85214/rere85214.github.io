@@ -5,7 +5,7 @@
   h1 {
     font-family: Lobster, Monospace;
     color: #D75B66;
-    font-size: 10px;
+    font-size: 50px;
   }
   .img-border {
     border-color: #C1403D;
