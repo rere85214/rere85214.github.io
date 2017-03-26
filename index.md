@@ -39,7 +39,7 @@
     background-color: silver;
   }
 </style>
-<div style="background-color:#23345C; margin:100%">
+<div style="background-color: #23345C; margin-right: 100%; margin-left: 100%">
 <h1 class="red-text">Rere's Page</h1>
 </div>
 
