@@ -47,6 +47,7 @@
 </style>
 <div style="background-color: #23345C" class="absolute">
 <h1>Rere's Page</h1>
+<marquee bgcolor="#F1BA48" behavior="altemate">Check out my information down below</marquee>
 </div>
 
 <div class="center relative">
@@ -55,11 +56,13 @@
 
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
-  <h4 class="center" size="8px"><font face="微軟正黑體">錢姵文</font></h4>
+  <h4 class="center" size="10px"><font face="微軟正黑體">錢姵文</font></h4>
   <p class="relative2"><b>Major : </b></p>
-  <h4 class="center" size="8px"><font face="微軟正黑體">CSIE</font></h4>
+  <h4 class="center" size="10px"><font face="微軟正黑體">CSIE</font></h4>
   <p class="relative2"><b>Student ID : </b></p>
-  <h4 class="center" size="8px"><font face="微軟正黑體">403262083</font></h4>
+  <h4 class="center" size="10px"><font face="微軟正黑體">403262083</font></h4>
+  <p class="relative2"><b>Nickname : </b></p>
+  <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b></p>
   <div class="center">
   <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
