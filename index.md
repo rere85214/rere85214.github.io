@@ -5,6 +5,7 @@
   h1 {
     font-family: Lobster, Monospace;
     color: #D75B66;
+    font-size: 10px;
   }
   .img-border {
     border-color: #C1403D;
@@ -40,11 +41,11 @@
 </style>
 <table cellpadding="0" cellspacing="1" width="100%" border="0">
   <tr>
-    <td colspan="2"><h1 class="red-text">Rere's Page</h1></td>
+    <td colspan="5"><h1 class="red-text">Rere's Page</h1></td>
   </tr>
 </table>
 <div style="background-color:#23345C; margin: 0 0 100 0">
-<font size="8px"><h1 class="red-text">Rere's Page</h1></font>
+<h1 class="red-text">Rere's Page</h1>
 </div>
 
 <div class="center">
