@@ -3,7 +3,7 @@
 <head>
 <script>
   $(document).ready(function() {
-    $(".image").addClass("animated bounce");
+    $("#QQ").addClass("animated bounce");
   });
 </script>
 </head>
@@ -60,6 +60,8 @@
 <div class="center relative">
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
+
+<button id="QQ">幫我QQ</button>
 
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
