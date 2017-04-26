@@ -1,10 +1,9 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <html>
 <head>
-<title>Rere's Page</title>
 <script>
   $(document).ready(function() {
-    $("[href]").addClass("animated bounce");
+    $(".image").addClass("animated bounce");
   });
 </script>
 </head>
