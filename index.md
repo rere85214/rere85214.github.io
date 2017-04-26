@@ -6,12 +6,11 @@
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <script>
-    $(document).ready(function() {
+  $(document).ready(function() {
     $("#facebook").addClass(animated bounce);
-    $("button").addClass(animated bounce);
-    $("button").click(function(){
-      $("#QQ")hide();
-    });
+    $("#QQ").css("color", "red");
+    $("#QQ").css("background", "white");
+
   });
 </script>
 
@@ -69,7 +68,7 @@
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<button id="QQ">幫我Q</button>
+<button id="QQ">幫kk我Q</button>
 
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
