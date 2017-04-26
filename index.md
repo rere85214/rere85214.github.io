@@ -1,11 +1,13 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<html>
+<head>
+<title>Rere's Page</title>
 <script>
   $(document).ready(function() {
     $("[href]").addClass("animated bounce");
   });
 </script>
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
-<html>
-<head><title>Rere's Page</title></head>
+</head>
 <body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <style>
   h1 {
