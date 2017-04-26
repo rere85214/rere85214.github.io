@@ -3,7 +3,7 @@
 <head>
 <script>
   $(document).ready(function() {
-    $("#QQ").addClass("animated bounce");
+    $("button").addClass("animated bounce");
   });
 </script>
 </head>
