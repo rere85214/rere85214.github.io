@@ -1,13 +1,12 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <html>
 <head>
-<title>Rere's Page</title>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 </head>
 <body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
-<script>
+<script type="text/javascript">
   $(document).ready(function() {
-    $("#facebook").addClass(animated bounce);
+    $("#facebook").addClass("animated bounce");
     $("#QQ").css("color", "red");
     $("#QQ").css("background", "white");
 
