@@ -6,11 +6,15 @@
 <body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <script type="text/javascript">
   $(document).ready(function() {
-    $("#facebook").addClass("animated shake");
-    $("#facebook").css("background", "#C1403D");
-    $("#QQ").css("color", "red");
-    $("#QQ").css("background", "white");
-
+    $("button").css("color", "#328DAA");
+    $("button").css("background", "#F1BA48");
+    $("button").click(function(){
+      $("#tofind").fadeIn("3000");
+    });
+    $("button").mouseenter(function(){
+      $("#facebook").css("color", "#F1BA48");
+      $("#facebook").css("background", "328DAA");
+    });
   });
 </script>
 
@@ -80,9 +84,10 @@
   <p class="relative2"><b>Nickname : </b></p>
   <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b></p>
-  <div class="center">
+  <button class="center"><font face="微軟正黑體">CLICK ME</font></button>
+  <div id="tofind" class="center">
   <a id="facebook" href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
-  <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
+  <a id="instagram" href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
 
 </div>
 </body>
