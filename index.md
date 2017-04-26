@@ -1,9 +1,10 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <html>
 <head>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js">
   $(document).ready(function() {
     $("#facebook").addClass(animated bounce);
+    $("button").addClass(animated bounce);
     $("button").click(function(){
       $("#QQ")hide();
     });
@@ -64,7 +65,7 @@
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<button id="QQ">幫我QQ</button>
+<button id="QQ">幫我Q</button>
 
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
