@@ -1,6 +1,6 @@
 <script>
   $(document).ready(function() {
-    $("[href]").fadeOut("fast");
+    $("[href]").addClass("animated bounce");
   });
 </script>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
