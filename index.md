@@ -1,6 +1,6 @@
 <script>
   $(document).ready(function() {
-    $("a").fadeOut("fast");
+    $("[href]").fadeOut("fast");
   });
 </script>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
