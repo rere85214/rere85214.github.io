@@ -1,3 +1,8 @@
+<script>
+  $(document).ready(function() {
+    $("a").fadeOut("fast");
+  });
+</script>
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <html>
 <head><title>Rere's Page</title></head>
