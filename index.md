@@ -6,7 +6,8 @@
 <body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <script type="text/javascript">
   $(document).ready(function() {
-    $("#facebook").addClass("animated bounce");
+    $("#facebook").addClass("animated shake");
+    $("#facebook").css("background", "#C1403D");
     $("#QQ").css("color", "red");
     $("#QQ").css("background", "white");
 
