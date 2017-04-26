@@ -3,7 +3,9 @@
 <head>
 <script>
   $(document).ready(function() {
-    $("button").addClass("animated bounce");
+    $("button").click(function(){
+      $("#QQ")hide();
+    });
   });
 </script>
 </head>
