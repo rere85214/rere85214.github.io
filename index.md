@@ -16,6 +16,10 @@
       $("button").css("color", "#F1BA48");
       $("button").css("background", "#328DAA");
     });
+    $("button").mouseleave(function(){
+      $("button").css("color", "#328DAA");
+      $("button").css("background", "#F1BA48");
+    })
   });
 </script>
 </head>
