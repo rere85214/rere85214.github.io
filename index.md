@@ -10,7 +10,7 @@
     $("button").css("background", "#F1BA48");
     $("#tofind").hide();
     $("button").click(function(){
-      $("#tofind").fadeIn("3000");
+      $("#tofind").fadeIn("slow");
     });
     $("button").mouseenter(function(){
       $("button").css("color", "#F1BA48");
@@ -91,7 +91,7 @@
   <p class="relative2"><b>Nickname : </b></p>  
   <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b>
-  <button class="relative3"><font face="微軟正黑體"><b>CLICK TO FIND</b></font></button></p>
+  <button class="relative3"><font face="微軟正黑體"><b>CLICK TO FIND OUT</b></font></button></p>
   <div id="tofind" class="center">
   <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
   <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
