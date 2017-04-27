@@ -12,8 +12,8 @@
       $("#tofind").fadeIn("3000");
     });
     $("button").mouseenter(function(){
-      $("#facebook").css("color", "#F1BA48");
-      $("#facebook").css("background", "328DAA");
+      $("button).css("color", "#F1BA48");
+      $("button").css("background-color", "328DAA");
     });
   });
 </script>
