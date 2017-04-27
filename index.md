@@ -11,8 +11,8 @@
       $("#tofind").fadeIn("3000");
     });
     $("button").mouseenter(function(){
-      $("button).css("color", "#F1BA48");
-      $("button").css("background-color", "328DAA");
+      $("button").css("color", "#F1BA48");
+      $("button").css("background", "#328DAA");
     });
   });
 </script>
@@ -71,7 +71,7 @@
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<button id="QQ">幫我Q</button>
+<button id="QQ">幫Q我Q</button>
 
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
