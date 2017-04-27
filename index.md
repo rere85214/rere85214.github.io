@@ -50,7 +50,7 @@
   }
   .relative3 {
     position: relative;
-    left: 50px;
+    left: 75px;
   }
   .center {
     text-align: center;
