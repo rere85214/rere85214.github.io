@@ -86,7 +86,8 @@
   <h4 class="center" size="10px"><font face="微軟正黑體">CSIE</font></h4>
   <p class="relative2"><b>Student ID : </b></p>
   <h4 class="center" size="10px"><font face="微軟正黑體">403262083</font></h4>
-  <p class="relative2"><b>Nickname : </b></p  <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
+  <p class="relative2"><b>Nickname : </b></p>  
+  <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b></p>
   <button class="relative3"><font face="微軟正黑體">CLICK ME</font></button>
   <div id="tofind" class="center">
