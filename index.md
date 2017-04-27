@@ -46,7 +46,7 @@
   }
   .relative3 {
     position: relative;
-    left: 350px;
+    left: 100px;
   }
   .center {
     text-align: center;
@@ -77,8 +77,6 @@
   <img class="image img-border" alt="Rere's profile" src="https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/17498727_1259832560773732_1933983040341206493_n.jpg?oh=7362548ede6868731d6325a8c146db5a&oe=59575A14">
 </div>
 
-<button id="QQ">幫我Q</button>
-
 <div class="relative">
   <p class="relative2"><b>Name : </b></p>
   <h4 class="center" size="10px"><font face="微軟正黑體">錢姵文</font></h4>
@@ -89,7 +87,7 @@
   <p class="relative2"><b>Nickname : </b></p>  
   <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b>
-  <button class="relative2"><font face="微軟正黑體">CLICK ME</font></button></p>
+  <button class="relative3"><font face="微軟正黑體"><b>CLICK TO FIND</b></font></button></p>
   <div id="tofind" class="center">
   <a href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
   <a href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
