@@ -1,6 +1,8 @@
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <html>
 <head>
+<script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-34582.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="/jquery/jquery-1.11.1.min.js"></script>
 <script>
   $(document).ready(function() {
@@ -84,10 +86,9 @@
   <h4 class="center" size="10px"><font face="微軟正黑體">CSIE</font></h4>
   <p class="relative2"><b>Student ID : </b></p>
   <h4 class="center" size="10px"><font face="微軟正黑體">403262083</font></h4>
-  <p class="relative2"><b>Nickname : </b></p>
-  <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
+  <p class="relative2"><b>Nickname : </b></p  <h4 class="center" size="10px"><font face="微軟正黑體">Rere</font></h4>
   <p class="relative2"><b>Find ME : </b></p>
-  <button class="center"><font face="微軟正黑體">CLICK ME</font></button>
+  <button class="relative3"><font face="微軟正黑體">CLICK ME</font></button>
   <div id="tofind" class="center">
   <a id="facebook" href="https://www.facebook.com/profile.php?id=100002410016435"><img class="small-img" alt="facebook link" src="http://www.newdesignfile.com/postpic/2011/04/download-facebook-logo-for-website_51278.jpg" border="0"></a>
   <a id="instagram" href="https://www.instagram.com/rere85214/"><img class="small-img" alt="instagram link" src="http://www.freelogovectors.net/wp-content/uploads/2016/12/instagram-logo.png" border="0"></a></div>
