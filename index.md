@@ -2,8 +2,6 @@
 <html>
 <head>
 <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
-</head>
-<body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <script type="text/javascript">
   $(document).ready(function() {
     $("button").css("color", "#328DAA");
@@ -17,8 +15,8 @@
     });
   });
 </script>
-
-
+</head>
+<body background="https://s-media-cache-ak0.pinimg.com/564x/12/4e/3c/124e3c48e44a1f215254ea311c0eda36.jpg">
 <style>
   h1 {
     font-family: Lobster, Monospace;
